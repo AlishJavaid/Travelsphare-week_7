@@ -1,7 +1,4 @@
 # 🧠 TravelSphere — Smart Travel Recommendations & Travel Assistant
-
-**CODIORA House (Private) Limited | 2-Month Remote Internship — Batch 3**
-**Week 7 Task — Smart Travel Features & Platform Optimization**
 **Web Development Track (HTML • CSS • JavaScript)**
 
 > *"Our Code Builds Your Vision"*
